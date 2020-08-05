@@ -1,8 +1,7 @@
-### Hi there 👋
 
 <!--
 **LucianoWeslen11/lucianoweslen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+2 sjsj
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -29,8 +28,8 @@ Sou um Developer, em busca de se tornar FullStack
  <br/> :blush: &nbsp; Posso te ajudar com HTML e CSS
  <br/> :computer: &nbsp; Minha stack: VueJS é NodeJS
  <br/> 💬  &nbsp; Sobre mim: Amo Robótica, no tempo livre gosto de ver uma série ou filme e sou muito caseiro
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianoweslen11/)](https://www.linkedin.com/in/lucianoweslen11 /) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucianoWeslen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianoweslen11/)](https://www.linkedin.com/in/lucianoweslen11/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:luciano.weslen11@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luciano.weslen11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:luciano.weslen11@gmail.com)
 
 
