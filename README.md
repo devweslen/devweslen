@@ -1,4 +1,4 @@
-<img width="auto" src="assets/banner.png">
+<img width="auto" src="https://user-images.githubusercontent.com/36344130/89425360-47f5e500-d70f-11ea-8878-0e62b48caee9.png">
 
 # Luciano Weslen
 
