@@ -1,4 +1,4 @@
-<img width="auto" src="https://user-images.githubusercontent.com/36344130/89425360-47f5e500-d70f-11ea-8878-0e62b48caee9.png">
+<!-- <img width="auto" src="https://user-images.githubusercontent.com/36344130/89425360-47f5e500-d70f-11ea-8878-0e62b48caee9.png">
 
 # Luciano Weslen
 
@@ -19,4 +19,36 @@ Sou uma pessoa apaixonada pot tecnologia
 [![Gmail Badge](https://img.shields.io/badge/-luciano.weslen11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:luciano.weslen11@gmail.com)
 
 
-### "Aproveite todos os momentos"
+### "Aproveite todos os momentos" -->
+
+## Hey, guys! 👋
+
+```js
+luciano = {
+  favoriteEmoji: "🚀",
+  curiosity: [
+    "Passionate about educational robotics",
+    "Sometimes plays as a designer in photoshop",
+    "Likes to get into new projects",
+    "I like to help other people"
+  ],
+  work: {
+    company: "Tilit",
+    role:"Web Developer | Intership",
+    startAt: "2020-03-01"
+  },
+  currentStack: [
+    "VueJS",
+    "NodeJS",
+    "MongoDB"
+  ],
+  interestIn: [
+    "UX/UI Design",
+    "Flutter",
+    "React Native",
+    "ReactJS"
+  ]
+}
+```
+
+>Aproveite todos os momentos 🧡
