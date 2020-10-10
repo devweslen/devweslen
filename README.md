@@ -1,16 +1,12 @@
 ### Fala, Galerinha! 👋
 [![Website](https://img.shields.io/website?label=lucianoweslen.com&style=for-the-badge&url=https%3A%2F%2Flucianoweslen11.github.io)](https://lucianoweslen11.github.io)
 
-<br/>
-
 ## Filho, Irmão, Amigo e Desenvolvedor!!!
 💻 Entusiasta por **tecnologia** em geral
 <br/> 🤖 Apaixonado por **programação** e **robótica**
 <br/> 😎 Buscando novos **desafios**
 <br/> 🚀 Emoji favorito **rocket**
 <br/> 🙏 Amo servir a **Deus**
-
-<br/>
 
 ### Entre em contato comigo:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter.com/lucianoweslen11-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/lucianoweslen11)](Linkedin) 
@@ -20,8 +16,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram.com/lucianoweslen11-critical?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lucianoweslen11/)](https://www.instagram.com/lucianoweslen11/)
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/-luciano.weslen11@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:luciano.weslen11@gmail.com)
-
-<br />
 
 ### Linguagens e Ferramentas:
 <table>
