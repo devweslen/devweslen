@@ -9,9 +9,8 @@
 <br/> 🙏 Amo servir a **Deus**
 
 ### Entre em contato comigo:
-[![Twitter Badge](https://img.shields.io/badge/-Twitter.com/lucianoweslen11-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/lucianoweslen11)](Linkedin) 
-<br/>
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin.com/in/lucianoweslen11-purple?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianoweslen11/)](Linkedin) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter.com/lucianoweslen11-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/lucianoweslen11)](https://www.twitter.com/lucianoweslen11/) 
+<br/>[![Linkedin Badge](https://img.shields.io/badge/-Linkedin.com/in/lucianoweslen11-purple?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianoweslen11/)](https://www.linkedin.com/in/lucianoweslen11/) 
 <br/>
 [![Instagram Badge](https://img.shields.io/badge/-Instagram.com/lucianoweslen11-critical?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lucianoweslen11/)](https://www.instagram.com/lucianoweslen11/)
 <br/>
