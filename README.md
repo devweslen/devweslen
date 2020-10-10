@@ -1,4 +1,4 @@
-S### Fala, Galerinha! 👋
+### Fala, Galerinha! 👋
 [![Website](https://img.shields.io/website?label=lucianoweslen.com&style=for-the-badge&url=https%3A%2F%2Flucianoweslen11.github.io)](https://lucianoweslen11.github.io)
 
 ## Filho, Irmão, Amigo e Desenvolvedor!!!
