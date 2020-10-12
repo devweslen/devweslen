@@ -6,7 +6,6 @@
 <br/> 🤖 Apaixonado por **programação** e **robótica**
 <br/> 😎 Buscando novos **desafios**
 <br/> 🚀 Emoji favorito **rocket**
-<br/> 🙏 Amo servir a **Deus**
 
 ### Entre em contato comigo:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter.com/lucianoweslen11-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/lucianoweslen11)](https://www.twitter.com/lucianoweslen11/) 
