@@ -1,5 +1,6 @@
 # Hey, Guys! <img src="assets/gifs/wave.gif" width="30px">
 
+## Entre em contato
 <p align="left">
   <a href="https://www.linkedin.com/in/lucianoweslen11/"
     ><img
@@ -20,6 +21,13 @@
     ><img
       height="30"
       src="assets/icons/twitter.svg"
+      alt="instagram" /></a
+  >
+  &nbsp;
+  <a href="https://api.whatsapp.com/send?phone=5543991670304&text=Ol%C3%A1%2C%20Luciano%20Weslen!"
+    ><img
+      height="30"
+      src="assets/icons/whatsapp.svg"
       alt="instagram" /></a
   >
   &nbsp;
@@ -55,7 +63,7 @@
 ![](https://img.shields.io/badge/Mobile-ReactNative-informational?style=for-the-badge&logo=react&logoColor=white&color=2a9d8f)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/zigante/zigante">
+<a href="https://github.com/lucianoweslen11">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianoweslen11&show_icons=true&line_height=27&count_private=true&title_color=2a9d8f&text_color=f4f6f6&icon_color=f4a261&bg_color=264653" alt="Luciano Weslen's GitHub Stats" />
 </a>
 
