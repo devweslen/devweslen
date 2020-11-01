@@ -47,29 +47,29 @@
 <br/> 🚀 Emoji favorito **rocket**
 
 ## 🔧 Tecnologias & Ferramentas
-![](https://img.shields.io/badge/SO-Windowns-informational?style=for-the-badge&logo=windows&logoColor=white&color=2a9d8f)
-![](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=2a9d8f)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2a9d8f)
-![](https://img.shields.io/badge/Web-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=2a9d8f)
-![](https://img.shields.io/badge/Web-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=2a9d8f)
-![](https://img.shields.io/badge/Frontend-VueJS-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=2a9d8f)
-![](https://img.shields.io/badge/Backend-NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2a9d8f)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2a9d8f)
+![](https://img.shields.io/badge/SO-Windowns-informational?style=for-the-badge&logo=windows&logoColor=white&color=007BFE)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007BFE)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=007BFE)
+![](https://img.shields.io/badge/Web-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=007BFE)
+![](https://img.shields.io/badge/Web-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=007BFE)
+![](https://img.shields.io/badge/Frontend-VueJS-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=007BFE)
+![](https://img.shields.io/badge/Backend-NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=007BFE)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=007BFE)
 
 ## 📚 Aprendendo...
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2a9d8f)
-![](https://img.shields.io/badge/Backend-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=2a9d8f)
-![](https://img.shields.io/badge/Frontend-ReactJS-informational?style=for-the-badge&logo=react&logoColor=white&color=2a9d8f)
-![](https://img.shields.io/badge/Mobile-ReactNative-informational?style=for-the-badge&logo=react&logoColor=white&color=2a9d8f)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=007BFE)
+![](https://img.shields.io/badge/Backend-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=007BFE)
+![](https://img.shields.io/badge/Frontend-ReactJS-informational?style=for-the-badge&logo=react&logoColor=white&color=007BFE)
+![](https://img.shields.io/badge/Mobile-ReactNative-informational?style=for-the-badge&logo=react&logoColor=white&color=007BFE)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/lucianoweslen11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianoweslen11&show_icons=true&line_height=27&count_private=true&title_color=2a9d8f&text_color=f4f6f6&icon_color=f4a261&bg_color=264653" alt="Luciano Weslen's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianoweslen11&show_icons=true&line_height=27&count_private=true&title_color=007BFE&text_color=f4f6f6&icon_color=FF911C&bg_color=003975" alt="Luciano Weslen's GitHub Stats" />
 </a>
 
 <br/>
 <br/>
 
-![](https://img.shields.io/badge/Nunca%20esque%C3%A7a%20de-aproveitar%20todos%20os%20momentos-informational?style=for-the-badge&logo=quote&logoColor=white&color=f4a261)
+![](https://img.shields.io/badge/Nunca%20esque%C3%A7a%20de-aproveitar%20todos%20os%20momentos-informational?style=for-the-badge&logo=quote&logoColor=white&color=FF911C)
 
-🧡
+![](/assets/icons/heart.svg)
