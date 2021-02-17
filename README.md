@@ -72,7 +72,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/lucianoweslen11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianoweslen11&show_icons=true&line_height=27&count_private=true&title_color=007BFE&text_color=f4f6f6&icon_color=FF911C&bg_color=003975" alt="Luciano Weslen's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lweslen&show_icons=true&line_height=27&count_private=true&title_color=007BFE&text_color=f4f6f6&icon_color=FF911C&bg_color=003975" alt="Luciano Weslen's GitHub Stats" />
 </a>
 
 <br/>
