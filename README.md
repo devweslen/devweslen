@@ -4,12 +4,14 @@
 
 <br/>
 
-<a href="https://www.weslen.com/"><img
-    align="right"
-    height="150"
-    src="./assets/images/logo.svg"
-    alt="Logo"
-/></a>
+<a href="https://www.weslen.dev/">
+  <img
+      align="right"
+      height="150"
+      src="assets/images/logo.svg"
+      alt="Logo"
+  />
+</a>
 
 ## **Christian, son, brother, friend and developer!**
 
@@ -41,8 +43,6 @@
 ![](https://img.shields.io/badge/Backend-Flask-informational?style=for-the-badge&logo=flask&logoColor=ffc500&color=ffc500)
 ![](https://img.shields.io/badge/Frontend-ReactJS-informational?style=for-the-badge&logo=react&logoColor=ffc500&color=ffc500)
 ![](https://img.shields.io/badge/Mobile-ReactNative-informational?style=for-the-badge&logo=react&logoColor=ffc500&color=ffc500)
-
-<br/>
 
 ## 🔎 **Find me in**
 
