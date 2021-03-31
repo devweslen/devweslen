@@ -4,11 +4,11 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lucianoweslen11/"><img
+<a href="https://www.weslen.com/"><img
     align="right"
     height="150"
-    src="assets/images/logo.svg"
-    alt="linkedin"
+    src="./assets/images/logo.svg"
+    alt="Logo"
 /></a>
 
 ## **Christian, son, brother, friend and developer!**
@@ -81,4 +81,3 @@
 <br/>
 
 > ### Enjoy every **moment**, they are **unique** and **pass quickly**!
->>>>>>> develop
