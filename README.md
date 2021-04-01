@@ -1,4 +1,4 @@
-# **Hi**, guys! <img src="assets/gifs/wave.gif" width="30px"> <br> My name is **Luciano**
+# **Hi**, guys! <img src="assets/gifs/wave.gif" width="30px"> My name is **Luciano**
 
 ### A dreamer wanting to help the world through programming. <br> Enjoy Every Moment! 💛🚀
 
