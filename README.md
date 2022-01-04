@@ -20,8 +20,6 @@
 &gt;_ junior developer at **[@tilit.online](https://tilit.com.br)**
 <br/>
 
-<br/>
-
 ## 🔧 **Technologies**
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=D99379&color=D99379)
