@@ -1,4 +1,4 @@
-# **Hi**, how are you doing?? <img src="assets/gifs/wave.gif" width="30px">  <br/> My name is **Luciano**
+# **Hi**, how are you?? <img src="assets/gifs/wave.gif" width="30px">  <br/> My name is **Luciano**
 
 <a href="https://www.weslen.dev/">
   <img
