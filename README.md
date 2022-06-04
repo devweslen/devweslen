@@ -1,4 +1,4 @@
-# **Fala, tudo bem contigo? <img src="assets/gifs/wave.gif" width="30px">**
+# **Fala, tudo bem contigo? <img src="assets/gifs/wave.gif" width="30">**
 
 <a href="https://www.weslen.dev/">
   <img
