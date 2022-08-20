@@ -1,13 +1,4 @@
-# **Fala, tudo bem contigo? <img src="assets/gifs/wave.gif" width="30">**
-
-<a href="https://www.weslen.dev/">
-  <img
-      align="right"
-      height="150"
-      src="assets/images/logo.svg"
-      alt="Logo"
-  />
-</a>
+# **fala, meu querido ou querida! tudo bem? <img src="assets/gifs/wave.gif" width="30">**
 
 Meu nome é **Luciano Weslen** e esse é um espaço para eu **compartilhar** os meus **estudos/projetos** voltados para a área de **tecnologia**. **Atualmente** atuo como **Desenvolvedor** e faço faculdade de **Analise e Desenvolvimento de Sistemas**. Sou uma pessoa **apaixonada** por **tecnologia** e como ela pode **ajudar as pessoas**.
 
@@ -27,37 +18,3 @@ Meu nome é **Luciano Weslen** e esse é um espaço para eu **compartilhar** os 
 ![](https://img.shields.io/badge/Frontend-VueJS-informational?style=for-the-badge&logo=vue.js&logoColor=FA8334&color=FA8334)
 ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=FA8334&color=FA8334)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=FA8334&color=FA8334)
-
-
-## 🔎 **Redes Sociais**
-
-<a href="https://www.linkedin.com/in/weslendev/">
-  <img
-    src="https://img.shields.io/badge/weslendev-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=1982C4"
-    alt="Linkedin"
-  />
-</a>
-<a href="https://www.github.com/devweslen/">
-  <img
-    src="https://img.shields.io/badge/devweslen-informational?style=for-the-badge&logo=github&logoColor=white&color=1982C4"
-    alt="Github"
-  />
-</a>
-<a href="https://www.twitter.com/weslendev/">
-  <img
-    src="https://img.shields.io/badge/weslendev-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1982C4"
-    alt="Twitter"
-  />
-</a>
-<a href="https://www.instagram.com/weslendev/">
-  <img
-    src="https://img.shields.io/badge/weslendev-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=1982C4"
-    alt="Instagram"
-  />
-</a>
-<a href="https://www.youtube.com/channel/UCKiSOLXbf8zVdDJ6VfiPzgA">
-  <img
-    src="https://img.shields.io/badge/WeslenDev-informational?style=for-the-badge&logo=youtube&logoColor=white&color=1982C4"
-    alt="Youtube"
-  />
-</a>
