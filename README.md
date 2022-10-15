@@ -6,7 +6,7 @@ Meu nome é **Luciano Weslen** e esse é um espaço para eu **compartilhar** os 
 <br/>
 &gt;) estudo ADS no **[@ifprlondrina](https://londrina.ifpr.edu.br)**
 <br/>
-&gt;) desenvolvedor fullstack na **[@zrp](https://zrp.com.br)**
+&gt;) desenvolvedor fullstack - learner na **[@zrp](https://zrp.com.br)**
 <br/>
 
 ## 🔧 **Técnologias**
