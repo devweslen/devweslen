@@ -1,4 +1,4 @@
-# **aoba, bão? <img src="assets/gifs/wave.gif" width="30">**
+# **aoba, bão? 👋
 
 Meu nome é **Luciano Weslen** e esse é um espaço para eu **compartilhar** os meus **estudos/projetos** voltados para a área de **tecnologia**. **Atualmente** atuo como **Desenvolvedor** e faço faculdade de **Analise e Desenvolvimento de Sistemas**. Sou uma pessoa **apaixonada** por **tecnologia** e como ela pode **ajudar as pessoas**.
 
