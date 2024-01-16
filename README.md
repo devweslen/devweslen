@@ -2,8 +2,8 @@
 
 Meu nome é **Luciano Weslen** e esse é um espaço para eu **compartilhar** os meus **estudos/projetos**
 
-- Atuo como **Desenvolvedor** na [ZRP](https://zrp.com.br)
-- Analista e Desenvolvedor de Sistemas formado pelo [IFPR](https://ifpr.edu.br)
+- Atuo como **Desenvolvedor de Software** na [ZRP](https://zrp.com.br)
+- **Analista e Desenvolvedor de Sistemas** formado pelo [IFPR](https://ifpr.edu.br)
   
 Sou **apaixonada** por **tecnologia** e como ela pode **ajudar as pessoas**
 
